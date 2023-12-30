@@ -62,28 +62,6 @@ export const projects = [
         github:"https://github.com/Himanxu1/netflix-gpt",
         live:"http://netflixgpt-937fc.web.app/"
     },
-    {
-        id:5,
-        title:"Socia",
-        description:{
-            item1:"A full stack social media where user can share thoughts",
-            item2:"Developed a robust comment system and like , follow/following features",
-            item3:"Implements bookmark and profile section"
-        },
-        technologies:["React JS", "Postgres db","Redux Toolkit","Prisma","Node JS"],
-        img:youtube
-    },
-    {
-        id:6,
-        title:"Socia",
-        description:{
-            item1:"A full stack social media where user can share thoughts",
-            item2:"Developed a robust comment system and like , follow/following features",
-            item3:"Implements bookmark and profile section"
-        },
-        technologies:["React JS", "Postgres db","Redux Toolkit","Prisma","Node JS"],
-        img:youtube
-    },
     
 ]
 
