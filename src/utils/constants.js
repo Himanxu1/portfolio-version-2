@@ -6,6 +6,7 @@ import hoisting from '../assets/hoisting.png'
 import callback from '../assets/callback.png'
 import eventloop from '../assets/eventloop.png'
 import closure from '../assets/closure.png'
+import socia from '../assets/socia.png'
 
 
 export const projects = [
@@ -61,6 +62,19 @@ export const projects = [
         img:netflixgpt,
         github:"https://github.com/Himanxu1/netflix-gpt",
         live:"http://netflixgpt-937fc.web.app/"
+    },
+    {
+        id:5,
+        title:"Socia",
+        description:{
+            item1:"Full stack application where user can post , like , comment and follow other users",
+            item2:"State management using Redux Toolkit",
+            item3:"Integrated OPEN AI API to get the results on the users description"
+        },
+        technologies:["React JS", "tailwind css","Redux Toolkit","Node Js","Postgres DB","Prisma"],
+        img:socia,
+        github:"https://github.com/Himanxu1/socia-frontend",
+        live:"https://socia-frontend.vercel.app/"
     },
     
 ]
